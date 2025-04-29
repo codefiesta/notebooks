@@ -1,6 +1,7 @@
 import csv
 import json
 import numpy as np
+import os
 
 def csv_to_list(filename):
     """
@@ -58,3 +59,11 @@ def split_train_val_test(data, ratio=[0.8, 0.1, 0.1]):
     indicies_for_splitting = [int(len(data) * train_r), int(len(data) * (train_r+val_r))]
     train, val, test = np.split(data, indicies_for_splitting)
     return list(train), list(val), list(test)
+
+def safe_make_dir(dir):
+    # Create nested directories
+    try:
+        os.makedirs(dir)
+        print("Directory {} created".format(dir))
+    except FileExistsError:
+        print("Ignoring: Directory {} already exists".format(dir))
