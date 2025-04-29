@@ -1,6 +1,9 @@
+# MacOS
+.DS_Store
+
 # Virtual environments
-venv/
-.env/
+.env
+.venv
 
 # Compiled Python files
 __pycache__/
@@ -11,4 +14,3 @@ __pycache__/
 # Jupyter Notebook Checkpoints
 .ipynb_checkpoints
 */.ipynb_checkpoints/*
-

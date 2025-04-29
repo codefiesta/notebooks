@@ -1,0 +1,39 @@
+{"label": "ISOLATE", "text": "Isolate {}"}
+{"label": "ISOLATE", "text": "Isolate all {}"}
+{"label": "ISOLATE", "text": "Show only {}"}
+{"label": "ISOLATE", "text": "Show only the {} elements"}
+{"label": "ISOLATE", "text": "Show me the {}"}
+{"label": "ISOLATE", "text": "Show me just the {}"}
+{"label": "ISOLATE", "text": "Only display {}"}
+{"label": "ISOLATE", "text": "Only show {}"}
+{"label": "ISOLATE", "text": "Only show me the {}"}
+{"label": "ISOLATE", "text": "Turn on only the {}"}
+{"label": "ISOLATE", "text": "Filter everything but the {}"}
+{"label": "ISOLATE", "text": "Reveal the {}"}
+{"label": "ISOLATE", "text": "Confine the {}"}
+{"label": "HIDE", "text": "Hide {}"}
+{"label": "HIDE", "text": "Hide all {}"}
+{"label": "HIDE", "text": "Hide the {}"}
+{"label": "HIDE", "text": "Hide all of the {}"}
+{"label": "HIDE", "text": "Hide everything in the {} category"}
+{"label": "HIDE", "text": "Turn off {} in the view"}
+{"label": "HIDE", "text": "Remove all {}"}
+{"label": "HIDE", "text": "Remove the {}"}
+{"label": "HIDE", "text": "Remove all of the {}"}
+{"label": "HIDE", "text": "Conceal all {}"}
+{"label": "HIDE", "text": "Conceal the {}"}
+{"label": "HIDE", "text": "Supress the {}"}
+{"label": "HIDE", "text": "Filter out the {}"}
+{"label": "QUANTIFY", "text": "Count the {}"}
+{"label": "QUANTIFY", "text": "Count all {}"}
+{"label": "QUANTIFY", "text": "Count of all {}"}
+{"label": "QUANTIFY", "text": "Give me a count of all {}"}
+{"label": "QUANTIFY", "text": "Show me a count of the {}"}
+{"label": "QUANTIFY", "text": "How many {} are there"}
+{"label": "QUANTIFY", "text": "Calculate the number of {}"}
+{"label": "QUANTIFY", "text": "Compute the number of all {}"}
+{"label": "QUANTIFY", "text": "Provide me a total of the {} in this model"}
+{"label": "QUANTIFY", "text": "Sum up the {}"}
+{"label": "QUANTIFY", "text": "Add up the {}"}
+{"label": "QUANTIFY", "text": "Total the number of {}"}
+{"label": "QUANTIFY", "text": "What are the total number of {}"}
