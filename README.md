@@ -17,10 +17,12 @@ python -m venv .venv
 source .venv/bin/activate
 
 # Intall the module dependencies 
-pip install -U -r requirements.txt
+pip install -r requirements.txt
 
 # For Spacy modules you will most likely need to download trained pipelines
 python -m spacy download en_core_web_trf
+python -m spacy download en_core_web_lg
+python -m spacy download en_core_web_sm
 
 # Run the local Jupyter server
 python -m notebook

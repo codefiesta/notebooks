@@ -16,4 +16,4 @@ torch
 transformers
 scikit-learn
 spacy
-spacy-llm
+coremltools
