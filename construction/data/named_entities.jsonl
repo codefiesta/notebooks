@@ -1,6 +1,6 @@
-{"label": "CON-BIM-CATG", "desc": "BIM Category - a high-level classification for families and elements, grouping them based on their functional type."}
-{"label": "CON-BIM-FAML", "desc": "BIM Family - a collection of elements that share common properties, behaviors, and physical characteristics."}
-{"label": "CON-BIM-TYPE", "desc": "BIM Type - a specific instantiation of a family that defines a unique set of parameters, essentially a variation within a family. Think of it as a specific size, material, or configuration of a particular family, such as a 3' x 6' door within a door family."}
-{"label": "CON-BIM-INST", "desc": "BIM Instance - a single, unique occurrence of a family type placed within a model."}
-{"label": "CON-BIM-LEVL", "desc": "BIM Level - a horizontal  plane used to define the vertical position of elements like walls, floors, and ceilings."}
-{"label": "CON-BIM-VIEW", "desc": "BIM View - represents a specific way of looking at the model, whether it's a 2D plan, elevation, section, or 3D view."}
+{"label": "CON_BIM_CATG", "desc": "BIM Category - a high-level classification for families and elements, grouping them based on their functional type."}
+{"label": "CON_BIM_FAML", "desc": "BIM Family - a collection of elements that share common properties, behaviors, and physical characteristics."}
+{"label": "CON_BIM_TYPE", "desc": "BIM Type - a specific instantiation of a family that defines a unique set of parameters, essentially a variation within a family. Think of it as a specific size, material, or configuration of a particular family, such as a 3' x 6' door within a door family."}
+{"label": "CON_BIM_INST", "desc": "BIM Instance - a single, unique occurrence of a family type placed within a model."}
+{"label": "CON_BIM_LEVL", "desc": "BIM Level - a horizontal  plane used to define the vertical position of elements like walls, floors, and ceilings."}
+{"label": "CON_BIM_VIEW", "desc": "BIM View - represents a specific way of looking at the model, whether it's a 2D plan, elevation, section, or 3D view."}

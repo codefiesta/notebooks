@@ -29,8 +29,11 @@ Conduit,Conduit Type,PVC 50mm
 Conduit,Conduit Type,RMC 32mm
 Curtain Panels,Glass Panel,Clear Glass
 Curtain Panels,Glass Panel,Tinted Glass
+Curtain Panels,System Panel,Glazed
+Curtain Panels,System Panel,Solid
 Curtain Systems,Curtain Wall System,CW-Simple
 Curtain Systems,Curtain Wall System,CW-Complex
+Curtain Systems,Curtain System,Stair Tower
 Data Devices,Network Jack,RJ45 Cat6
 Data Devices,Network Jack,RJ45 Cat6A
 Data Devices,Wireless Access Point,WAP - Ceiling
