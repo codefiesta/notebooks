@@ -1,3 +1,6 @@
+![Python3](https://img.shields.io/badge/Python-3-gold.svg)
+![Jupyter 7.4+](https://img.shields.io/badge/Jupyter-7.4%2B-tomato.svg)
+
 # CodeFiesta Notebooks
 A repository for [Jupyter Notebooks](https://jupyter.org/) and Machine Learning.
 
