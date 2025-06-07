@@ -1,0 +1,195 @@
+category,family,type
+Air Terminals,Supply Diffuser,Square Ceiling Diffuser
+Air Terminals,Supply Diffuser,Round Ceiling Diffuser
+Air Terminals,Return Grille,Eggcrate Grille
+Air Terminals,Return Grille,Linear Slot Diffuser
+Cable Trays,Ladder Tray,150mm Ladder Tray
+Cable Trays,Ladder Tray,300mm Ladder Tray
+Cable Trays,Solid Bottom Tray,100mm Solid Bottom
+Cable Trays,Solid Bottom Tray,200mm Solid Bottom
+Ceilings,Compound Ceiling,Acoustic Tile - 600x600
+Ceilings,Compound Ceiling,Gypsum Board - 12mm
+Ceilings,Compound Ceiling,Suspended Grid System
+Ceilings,Compound Ceiling,Wood Slat Ceiling
+Ceilings,Compound Ceiling,Metal Panel Ceiling
+Ceilings,Ceiling System,Exposed Tee Grid System
+Ceilings,Ceiling System,Concealed Tee Grid System
+Ceilings,Ceiling System,Linear Ceiling System
+Ceilings,Custom Ceiling,Barrel Vault Ceiling
+Ceilings,Custom Ceiling,Coffered Ceiling
+Ceilings,Custom Ceiling,Domed Ceiling
+Columns,Rectangular Column,Concrete 300x300mm
+Columns,Rectangular Column,Steel HSS 200x200mm
+Communication Devices,Telephone Jack,Standard RJ11
+Communication Devices,Telephone Jack,RJ45 Combo Jack
+Communication Devices,Intercom Station,Wall Intercom
+Communication Devices,Intercom Station,Desk Intercom
+Conduit,Conduit Type,EMT 25mm
+Conduit,Conduit Type,PVC 50mm
+Conduit,Conduit Type,RMC 32mm
+Curtain Panels,Glass Panel,Clear Glass
+Curtain Panels,Glass Panel,Tinted Glass
+Curtain Panels,System Panel,Glazed
+Curtain Panels,System Panel,Solid
+Curtain Systems,Curtain Wall System,CW-Simple
+Curtain Systems,Curtain Wall System,CW-Complex
+Curtain Systems,Curtain System,Stair Tower
+Data Devices,Network Jack,RJ45 Cat6
+Data Devices,Network Jack,RJ45 Cat6A
+Data Devices,Wireless Access Point,WAP - Ceiling
+Data Devices,Wireless Access Point,WAP - Wall Mount
+Doors,Single Flush,900 x 2100mm
+Doors,Single Flush,1000 x 2100mm
+Doors,Double Glass,1600 x 2100mm
+Doors,Double Glass,1800 x 2100mm
+Duct Accessories,Damper,Volume Damper
+Duct Accessories,Damper,Fire Damper
+Duct Accessories,Access Door,Small Access Panel
+Duct Accessories,Access Door,Large Access Panel
+Duct Fittings,Elbow,90 Degree Elbow
+Duct Fittings,Elbow,45 Degree Elbow
+Duct Fittings,Transition,Rectangular to Round
+Duct Fittings,Transition,Tapered Transition
+Duct Insulations,Insulation,25mm Fiberglass
+Duct Insulations,Insulation,50mm Mineral Wool
+Ducts,Rectangular Duct,300x150mm
+Ducts,Rectangular Duct,600x300mm
+Ducts,Round Duct,Ø150mm
+Ducts,Round Duct,Ø300mm
+Electrical Equipment,Panelboard,Lighting Panelboard
+Electrical Equipment,Panelboard,Power Panelboard
+Electrical Equipment,Transformer,Dry-Type Transformer
+Electrical Equipment,Transformer,Oil-Immersed Transformer
+Electrical Equipment,Switchgear,Low Voltage Switchgear
+Electrical Equipment,Switchgear,Medium Voltage Switchgear
+Electrical Fixtures,Power Outlet,GPO - Double
+Electrical Fixtures,Power Outlet,GPO - Weatherproof
+Electrical Fixtures,Light Switch,Single Pole
+Electrical Fixtures,Light Switch,Three-Way
+Electrical Fixtures,Receptacle,Duplex Receptacle
+Electrical Fixtures,Receptacle,Quad Receptacle
+Electrical Fixtures,Receptacle,Floor Box Receptacle
+Electrical Fixtures,Switch,Single-Pole Switch
+Electrical Fixtures,Switch,Three-Way Switch
+Electrical Fixtures,Wall Outlet,USB Outlet
+Electrical Fixtures,Wall Outlet,GFCI Outlet
+Fire Alarm Devices,Smoke Detector,Photoelectric Detector
+Fire Alarm Devices,Smoke Detector,Ionization Detector
+Fire Alarm Devices,Notification Appliance,Horn Strobe
+Fire Alarm Devices,Notification Appliance,Speaker Strobe
+Fire Protection,Pendant Sprinkler,Standard Pendant
+Fire Protection,Pendant Sprinkler,Quick Response Pendant
+Fire Protection,Upright Sprinkler,Standard Upright
+Fire Protection,Upright Sprinkler,Extended Coverage Upright
+Fire Protection,Sidewall Sprinkler,Horizontal Sidewall
+Fire Protection,Sidewall Sprinkler,Vertical Sidewall
+Fire Protection,Smoke Detector,Photoelectric
+Fire Protection,Smoke Detector,Ionization
+Fire Protection,Heat Detector,Fixed Temperature
+Fire Protection,Heat Detector,Rate-of-Rise
+Fire Protection,Notification Appliance,Horn Strobe
+Fire Protection,Notification Appliance,Speaker Strobe
+Fire Protection,Flow Switch,Paddle Type Flow Switch
+Fire Protection,Flow Switch,Electronic Flow Switch
+Fire Protection,Tamper Switch,Supervisory Tamper Switch
+Fire Protection,Tamper Switch,Valve Tamper Switch
+Fire Protection,Fire Protection Pipe,DN50 Black Steel
+Fire Protection,Fire Protection Pipe,DN100 CPVC
+Fire Protection,Alarm Valve,Wet System Valve
+Fire Protection,Alarm Valve,Dry System Valve
+Fire Protection,Control Valve,OS&Y Valve
+Fire Protection,Control Valve,Butterfly Valve
+Floors,Generic Floor,Generic - 150mm
+Floors,Generic Floor,Generic - 300mm
+Floors,Generic Floor,Generic - 450mm
+Floors,Generic Floor,Concrete - 150mm
+Floors,Generic Floor,Wood Joist Floor
+Floors,Structural Floor,Concrete Slab - 200mm
+Floors,Structural Floor,Precast Hollow Core Slab
+Floors,Structural Floor,Composite Metal Deck
+Floors,Structural Slab,Reinforced Concrete Slab
+Floors,Finish Floor,Tile Finish - 10mm
+Floors,Finish Floor,Wood Finish - 20mm
+Floors,Finish Floor,Carpet Finish - 15mm
+Floors,Raised Access Floor,Steel Panel Raised Floor
+Floors,Raised Access Floor,Calcium Sulfate Panel Raised Floor
+Floors,Thermal Mass Floor,Radiant Slab
+Floors,Thermal Mass Floor,Thermal Concrete Mass Floor
+Furniture,Seating,Office Chair
+Furniture,Seating,Sofa
+Furniture,Tables,Dining Table
+Furniture,Tables,Coffee Table
+Lighting Fixtures,Recessed Can,LED 150mm
+Lighting Fixtures,Recessed Can,Halogen 100mm
+Lighting Fixtures,Pendant Light,Modern Pendant
+Lighting Fixtures,Pendant Light,Industrial Pendant
+Lighting Fixtures,Ceiling Light,LED Panel Light
+Lighting Fixtures,Ceiling Light,Fluorescent Troffer
+Lighting Fixtures,Pendant Light,Modern Pendant
+Lighting Fixtures,Pendant Light,Industrial Pendant
+Lighting Fixtures,Emergency Light,Wall-Mounted Emergency
+Lighting Fixtures,Emergency Light,Ceiling Emergency Combo
+Mechanical Equipment,Air Handling Unit,AHU - Small
+Mechanical Equipment,Air Handling Unit,AHU - Large
+Mechanical Equipment,Air Handling Unit,AHU - Rooftop
+Mechanical Equipment,Fan Coil Unit,FCU - Horizontal
+Mechanical Equipment,Fan Coil Unit,FCU - Vertical
+Mechanical Equipment,Fan Coil Unit,FCU - Ceiling Mounted
+Mechanical Equipment,Chiller,Water-Cooled Chiller
+Mechanical Equipment,Chiller,Air-Cooled Chiller
+Mechanical Equipment,Boiler,Gas Boiler
+Mechanical Equipment,Boiler,Electric Boiler
+Pipe Accessories,Valve,Butterfly Valve
+Pipe Accessories,Valve,Gate Valve
+Pipe Accessories,Strainer,Y-Strainer
+Pipe Accessories,Strainer,Basket Strainer
+Pipe Fittings,Elbow,90° Elbow
+Pipe Fittings,Elbow,45° Elbow
+Pipe Fittings,Tee,Equal Tee
+Pipe Fittings,Tee,Reducing Tee
+Pipe Insulations,Pipe Wrap,25mm Foam
+Pipe Insulations,Pipe Wrap,50mm Fiberglass
+Pipes,Domestic Cold Water,DN25
+Pipes,Domestic Cold Water,DN50
+Pipes,Sanitary Sewer,DN100
+Pipes,Sanitary Sewer,DN150
+Plumbing Fixtures,Toilets,Wall Mounted
+Plumbing Fixtures,Toilets,Floor Mounted
+Plumbing Fixtures,Sinks,Countertop Sink
+Plumbing Fixtures,Sinks,Wall Hung Sink
+Railings,Pipe Railing,Standard
+Railings,Pipe Railing,ADA Compliant
+Roofs,Basic Roof,Insulated Metal Panel
+Roofs,Basic Roof,Wood Truss Roof
+Roofs,Sloped Glazing,Skylight - Pyramid
+Stairs,Monolithic Stair,Concrete Stair - 150mm Tread
+Stairs,Assembled Stair,Metal Stair with Riser
+Structural Framing,Steel Beam,W12x26
+Structural Framing,Steel Beam,C10x20
+Structural Framing,Concrete Beam,300x600mm
+Walls,Basic Wall,Generic - 100mm
+Walls,Basic Wall,Generic - 200mm
+Walls,Basic Wall,Interior Partition - 92mm Stud
+Walls,Basic Wall,Interior - 92mm Stud
+Walls,Basic Wall,Exterior - Brick on CMU
+Walls,Basic Wall,Exterior - Insulated Metal Panel
+Walls,Basic Wall,Exterior - Stucco on Studs
+Walls,Basic Wall,Exterior - Stud & Plaster
+Walls,Basic Wall,Concrete Garden Wall
+Walls,Curtain Wall,Exterior Glazing
+Walls,Curtain Wall,Storefront
+Walls,Curtain Wall,Curtain Wall - Exterior Glazing
+Walls,Curtain Wall,Curtain Wall - Storefront
+Walls,Curtain Wall,Curtain Wall - Double Glazed
+Walls,Curtain Wall,Unitized Curtain Wall
+Walls,Curtain Wall,Mullion Grid System
+Walls,Punch Out Wall,Punch Out Wall
+Walls,Retaining Wall,Retaining Wall
+Walls,Stacked Wall,Brick Over CMU
+Walls,Stacked Wall,Stone Over Concrete
+Walls,Stacked Wall,Metal Panel Over Stud
+Walls,Stacked Wall,Precast over Insulated Wall
+Windows,Fixed,600 x 900mm
+Windows,Fixed,900 x 1200mm
+Windows,Awning,600 x 600mm
+Windows,Awning,1200 x 600mm

@@ -1,0 +1,20 @@
+# Jupyter dependencies
+urllib3<2.0
+notebook
+ipywidgets
+# Utility dependencies
+inflect
+nltk
+# Notebook dependencies
+accelerate
+datasets
+evaluate
+tensorflow
+tf-keras
+tf-models-official
+torch
+torchvision
+transformers
+scikit-learn
+spacy
+coremltools

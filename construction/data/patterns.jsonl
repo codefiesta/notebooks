@@ -1,0 +1,640 @@
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "air"}, {"LOWER": "terminals"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "air"}, {"LEMMA": "terminal"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "cable"}, {"LOWER": "trays"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "cable"}, {"LEMMA": "tray"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "ceilings"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "ceiling"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "columns"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "column"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "communication"}, {"LOWER": "devices"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "communication"}, {"LEMMA": "device"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "conduit"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "conduit"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "curtain"}, {"LOWER": "panels"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "curtain"}, {"LEMMA": "panel"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "curtain"}, {"LOWER": "systems"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "curtain"}, {"LEMMA": "system"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "data"}, {"LOWER": "devices"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "data"}, {"LEMMA": "device"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "doors"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "door"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "duct"}, {"LOWER": "accessories"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "duct"}, {"LEMMA": "accessory"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "duct"}, {"LOWER": "fittings"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "duct"}, {"LEMMA": "fitting"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "duct"}, {"LOWER": "insulations"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "duct"}, {"LEMMA": "insulation"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "ducts"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "duct"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "electrical"}, {"LOWER": "equipment"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "electrical"}, {"LEMMA": "equipment"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "electrical"}, {"LOWER": "fixtures"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "electrical"}, {"LEMMA": "fixture"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "fire"}, {"LOWER": "alarm"}, {"LOWER": "devices"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "fire"}, {"LOWER": "alarm"}, {"LEMMA": "device"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "fire"}, {"LOWER": "protection"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "fire"}, {"LEMMA": "protection"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "floors"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "floor"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "furniture"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "furniture"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "lighting"}, {"LOWER": "fixtures"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "lighting"}, {"LEMMA": "fixture"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "mechanical"}, {"LOWER": "equipment"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "mechanical"}, {"LEMMA": "equipment"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "pipe"}, {"LOWER": "accessories"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "pipe"}, {"LEMMA": "accessory"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "pipe"}, {"LOWER": "fittings"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "pipe"}, {"LEMMA": "fittings"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "pipe"}, {"LOWER": "insulations"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "pipe"}, {"LEMMA": "insulation"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "pipes"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "pipe"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "plumbing"}, {"LOWER": "fixtures"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "plumbing"}, {"LEMMA": "fixture"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "railings"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "railing"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "roofs"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "roof"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "stairs"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "stair"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "structural"}, {"LOWER": "framing"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "structural"}, {"LEMMA": "framing"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "walls"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "wall"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LOWER": "windows"}]}
+{"label": "CON_BIM_CATG", "pattern": [{"LEMMA": "windows"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "return"}, {"LOWER": "grille"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "return"}, {"LEMMA": "grille"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "supply"}, {"LOWER": "diffuser"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "supply"}, {"LEMMA": "diffuser"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "linear"}, {"LOWER": "slot"}, {"LOWER": "diffuser"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "linear"}, {"LOWER": "slot"}, {"LEMMA": "diffuser"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "eggcrate"}, {"LOWER": "grille"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "eggcrate"}, {"LEMMA": "grille"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "round"}, {"LOWER": "ceiling"}, {"LOWER": "diffuser"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "round"}, {"LOWER": "ceiling"}, {"LEMMA": "diffuser"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "square"}, {"LOWER": "ceiling"}, {"LOWER": "diffuser"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "square"}, {"LOWER": "ceiling"}, {"LEMMA": "diffuser"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "ladder"}, {"LOWER": "tray"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "ladder"}, {"LEMMA": "tray"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "solid"}, {"LOWER": "bottom"}, {"LOWER": "tray"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "solid"}, {"LOWER": "bottom"}, {"LEMMA": "tray"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "300"}, {"LOWER": "mm"}, {"LOWER": "ladder"}, {"LOWER": "tray"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "300"}, {"LOWER": "mm"}, {"LOWER": "ladder"}, {"LEMMA": "tray"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "150"}, {"LOWER": "mm"}, {"LOWER": "ladder"}, {"LOWER": "tray"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "150"}, {"LOWER": "mm"}, {"LOWER": "ladder"}, {"LEMMA": "tray"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "100"}, {"LOWER": "mm"}, {"LOWER": "solid"}, {"LOWER": "bottom"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "100"}, {"LOWER": "mm"}, {"LOWER": "solid"}, {"LEMMA": "bottom"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "200"}, {"LOWER": "mm"}, {"LOWER": "solid"}, {"LOWER": "bottom"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "200"}, {"LOWER": "mm"}, {"LOWER": "solid"}, {"LEMMA": "bottom"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "custom"}, {"LOWER": "ceiling"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "custom"}, {"LEMMA": "ceiling"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "compound"}, {"LOWER": "ceiling"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "compound"}, {"LEMMA": "ceiling"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "ceiling"}, {"LOWER": "system"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "ceiling"}, {"LEMMA": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "coffered"}, {"LOWER": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "coffered"}, {"LEMMA": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "domed"}, {"LOWER": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "domed"}, {"LEMMA": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "barrel"}, {"LOWER": "vault"}, {"LOWER": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "barrel"}, {"LOWER": "vault"}, {"LEMMA": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "suspended"}, {"LOWER": "grid"}, {"LOWER": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "suspended"}, {"LOWER": "grid"}, {"LEMMA": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "metal"}, {"LOWER": "panel"}, {"LOWER": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "metal"}, {"LOWER": "panel"}, {"LEMMA": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "acoustic"}, {"LOWER": "tile"}, {"LOWER": "-"}, {"LOWER": "600x600"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "acoustic"}, {"LOWER": "tile"}, {"LOWER": "-"}, {"LEMMA": "600x600"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wood"}, {"LOWER": "slat"}, {"LOWER": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wood"}, {"LOWER": "slat"}, {"LEMMA": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gypsum"}, {"LOWER": "board"}, {"LOWER": "-"}, {"LOWER": "12"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gypsum"}, {"LOWER": "board"}, {"LOWER": "-"}, {"LOWER": "12"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exposed"}, {"LOWER": "tee"}, {"LOWER": "grid"}, {"LOWER": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exposed"}, {"LOWER": "tee"}, {"LOWER": "grid"}, {"LEMMA": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "linear"}, {"LOWER": "ceiling"}, {"LOWER": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "linear"}, {"LOWER": "ceiling"}, {"LEMMA": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concealed"}, {"LOWER": "tee"}, {"LOWER": "grid"}, {"LOWER": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concealed"}, {"LOWER": "tee"}, {"LOWER": "grid"}, {"LEMMA": "system"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "rectangular"}, {"LOWER": "column"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "rectangular"}, {"LEMMA": "column"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "steel"}, {"LOWER": "hss"}, {"LOWER": "200x200"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "steel"}, {"LOWER": "hss"}, {"LOWER": "200x200"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "300x300"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "300x300"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "intercom"}, {"LOWER": "station"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "intercom"}, {"LEMMA": "station"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "telephone"}, {"LOWER": "jack"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "telephone"}, {"LEMMA": "jack"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wall"}, {"LOWER": "intercom"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wall"}, {"LEMMA": "intercom"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "desk"}, {"LOWER": "intercom"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "desk"}, {"LEMMA": "intercom"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rj45"}, {"LOWER": "combo"}, {"LOWER": "jack"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rj45"}, {"LOWER": "combo"}, {"LEMMA": "jack"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "standard"}, {"LOWER": "rj11"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "standard"}, {"LEMMA": "rj11"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "conduit"}, {"LOWER": "type"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "conduit"}, {"LEMMA": "type"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "emt"}, {"LOWER": "25"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "emt"}, {"LOWER": "25"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "pvc"}, {"LOWER": "50"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "pvc"}, {"LOWER": "50"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rmc"}, {"LOWER": "32"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rmc"}, {"LOWER": "32"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "system"}, {"LOWER": "panel"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "system"}, {"LEMMA": "panel"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "glass"}, {"LOWER": "panel"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "glass"}, {"LEMMA": "panel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "glazed"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "glaze"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "solid"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "solid"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "clear"}, {"LOWER": "glass"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "clear"}, {"LEMMA": "glass"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "tinted"}, {"LOWER": "glass"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "tinted"}, {"LEMMA": "glass"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "curtain"}, {"LOWER": "wall"}, {"LOWER": "system"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "curtain"}, {"LOWER": "wall"}, {"LEMMA": "system"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "curtain"}, {"LOWER": "system"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "curtain"}, {"LEMMA": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "cw"}, {"LOWER": "-"}, {"LOWER": "complex"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "cw"}, {"LOWER": "-"}, {"LEMMA": "complex"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "cw"}, {"LOWER": "-"}, {"LOWER": "simple"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "cw"}, {"LOWER": "-"}, {"LEMMA": "simple"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "stair"}, {"LOWER": "tower"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "stair"}, {"LEMMA": "tower"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "network"}, {"LOWER": "jack"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "network"}, {"LEMMA": "jack"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "wireless"}, {"LOWER": "access"}, {"LOWER": "point"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "wireless"}, {"LOWER": "access"}, {"LEMMA": "point"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rj45"}, {"LOWER": "cat6"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rj45"}, {"LEMMA": "cat6"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rj45"}, {"LOWER": "cat6a"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rj45"}, {"LEMMA": "cat6a"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wap"}, {"LOWER": "-"}, {"LOWER": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wap"}, {"LOWER": "-"}, {"LEMMA": "ceiling"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wap"}, {"LOWER": "-"}, {"LOWER": "wall"}, {"LOWER": "mount"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wap"}, {"LOWER": "-"}, {"LOWER": "wall"}, {"LEMMA": "mount"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "double"}, {"LOWER": "glass"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "double"}, {"LEMMA": "glass"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "single"}, {"LOWER": "flush"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "single"}, {"LEMMA": "flush"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "1600"}, {"LOWER": "x"}, {"LOWER": "2100"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "1600"}, {"LOWER": "x"}, {"LOWER": "2100"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "1800"}, {"LOWER": "x"}, {"LOWER": "2100"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "1800"}, {"LOWER": "x"}, {"LOWER": "2100"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "900"}, {"LOWER": "x"}, {"LOWER": "2100"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "900"}, {"LOWER": "x"}, {"LOWER": "2100"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "1000"}, {"LOWER": "x"}, {"LOWER": "2100"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "1000"}, {"LOWER": "x"}, {"LOWER": "2100"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "access"}, {"LOWER": "door"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "access"}, {"LEMMA": "door"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "damper"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "damper"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "large"}, {"LOWER": "access"}, {"LOWER": "panel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "large"}, {"LOWER": "access"}, {"LEMMA": "panel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "small"}, {"LOWER": "access"}, {"LOWER": "panel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "small"}, {"LOWER": "access"}, {"LEMMA": "panel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fire"}, {"LOWER": "damper"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fire"}, {"LEMMA": "damper"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "volume"}, {"LOWER": "damper"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "volume"}, {"LEMMA": "damper"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "elbow"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "elbow"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "transition"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "transition"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "90"}, {"LOWER": "\u00b0"}, {"LOWER": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "90"}, {"LOWER": "\u00b0"}, {"LEMMA": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "45"}, {"LOWER": "\u00b0"}, {"LOWER": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "45"}, {"LOWER": "\u00b0"}, {"LEMMA": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "45"}, {"LOWER": "degree"}, {"LOWER": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "45"}, {"LOWER": "degree"}, {"LEMMA": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "90"}, {"LOWER": "degree"}, {"LOWER": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "90"}, {"LOWER": "degree"}, {"LEMMA": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "tapered"}, {"LOWER": "transition"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "tapered"}, {"LEMMA": "transition"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rectangular"}, {"LOWER": "to"}, {"LOWER": "round"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rectangular"}, {"LOWER": "to"}, {"LEMMA": "round"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "insulation"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "insulation"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "50"}, {"LOWER": "mm"}, {"LOWER": "mineral"}, {"LOWER": "wool"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "50"}, {"LOWER": "mm"}, {"LOWER": "mineral"}, {"LEMMA": "wool"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "25"}, {"LOWER": "mm"}, {"LOWER": "fiberglass"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "25"}, {"LOWER": "mm"}, {"LEMMA": "fiberglass"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "rectangular"}, {"LOWER": "duct"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "rectangular"}, {"LEMMA": "duct"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "round"}, {"LOWER": "duct"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "round"}, {"LEMMA": "duct"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "300x150"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "300x150"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "600x300"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "600x300"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "\u00f8150"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "\u00f8150"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "\u00f8300"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "\u00f8300"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "switchgear"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "switchgear"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "panelboard"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "panelboard"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "transformer"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "transformer"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "medium"}, {"LOWER": "voltage"}, {"LOWER": "switchgear"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "medium"}, {"LOWER": "voltage"}, {"LEMMA": "switchgear"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "low"}, {"LOWER": "voltage"}, {"LOWER": "switchgear"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "low"}, {"LOWER": "voltage"}, {"LEMMA": "switchgear"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "power"}, {"LOWER": "panelboard"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "power"}, {"LEMMA": "panelboard"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "lighting"}, {"LOWER": "panelboard"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "lighting"}, {"LEMMA": "panelboard"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "oil"}, {"LOWER": "-"}, {"LOWER": "immersed"}, {"LOWER": "transformer"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "oil"}, {"LOWER": "-"}, {"LOWER": "immersed"}, {"LEMMA": "transformer"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dry"}, {"LOWER": "-"}, {"LOWER": "type"}, {"LOWER": "transformer"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dry"}, {"LOWER": "-"}, {"LOWER": "type"}, {"LEMMA": "transformer"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "wall"}, {"LOWER": "outlet"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "wall"}, {"LEMMA": "outlet"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "power"}, {"LOWER": "outlet"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "power"}, {"LEMMA": "outlet"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "switch"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "switch"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "light"}, {"LOWER": "switch"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "light"}, {"LEMMA": "switch"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "receptacle"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "receptacle"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "usb"}, {"LOWER": "outlet"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "usb"}, {"LEMMA": "outlet"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gfci"}, {"LOWER": "outlet"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gfci"}, {"LEMMA": "outlet"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gpo"}, {"LOWER": "-"}, {"LOWER": "weatherproof"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gpo"}, {"LOWER": "-"}, {"LEMMA": "weatherproof"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gpo"}, {"LOWER": "-"}, {"LOWER": "double"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gpo"}, {"LOWER": "-"}, {"LEMMA": "double"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "single"}, {"LOWER": "-"}, {"LOWER": "pole"}, {"LOWER": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "single"}, {"LOWER": "-"}, {"LOWER": "pole"}, {"LEMMA": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "three"}, {"LOWER": "-"}, {"LOWER": "way"}, {"LOWER": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "three"}, {"LOWER": "-"}, {"LOWER": "way"}, {"LEMMA": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "single"}, {"LOWER": "pole"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "single"}, {"LEMMA": "pole"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "three"}, {"LOWER": "-"}, {"LOWER": "way"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "three"}, {"LOWER": "-"}, {"LEMMA": "way"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "quad"}, {"LOWER": "receptacle"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "quad"}, {"LEMMA": "receptacle"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "floor"}, {"LOWER": "box"}, {"LOWER": "receptacle"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "floor"}, {"LOWER": "box"}, {"LEMMA": "receptacle"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "duplex"}, {"LOWER": "receptacle"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "duplex"}, {"LEMMA": "receptacle"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "smoke"}, {"LOWER": "detector"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "smoke"}, {"LEMMA": "detector"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "notification"}, {"LOWER": "appliance"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "notification"}, {"LEMMA": "appliance"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ionization"}, {"LOWER": "detector"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ionization"}, {"LEMMA": "detector"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "photoelectric"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "photoelectric"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "photoelectric"}, {"LOWER": "detector"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "photoelectric"}, {"LEMMA": "detector"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ionization"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "ionization"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "speaker"}, {"LOWER": "strobe"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "speaker"}, {"LEMMA": "strobe"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "horn"}, {"LOWER": "strobe"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "horn"}, {"LEMMA": "strobe"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "upright"}, {"LOWER": "sprinkler"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "upright"}, {"LEMMA": "sprinkler"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "alarm"}, {"LOWER": "valve"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "alarm"}, {"LEMMA": "valve"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "control"}, {"LOWER": "valve"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "control"}, {"LEMMA": "valve"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "sidewall"}, {"LOWER": "sprinkler"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "sidewall"}, {"LEMMA": "sprinkler"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "tamper"}, {"LOWER": "switch"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "tamper"}, {"LEMMA": "switch"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "pendant"}, {"LOWER": "sprinkler"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "pendant"}, {"LEMMA": "sprinkler"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "smoke"}, {"LOWER": "detector"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "smoke"}, {"LEMMA": "detector"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "notification"}, {"LOWER": "appliance"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "notification"}, {"LEMMA": "appliance"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "flow"}, {"LOWER": "switch"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "flow"}, {"LEMMA": "switch"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "fire"}, {"LOWER": "protection"}, {"LOWER": "pipe"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "fire"}, {"LOWER": "protection"}, {"LEMMA": "pipe"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "heat"}, {"LOWER": "detector"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "heat"}, {"LEMMA": "detector"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "extended"}, {"LOWER": "coverage"}, {"LOWER": "upright"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "extended"}, {"LOWER": "coverage"}, {"LEMMA": "upright"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "standard"}, {"LOWER": "upright"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "standard"}, {"LEMMA": "upright"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dry"}, {"LOWER": "system"}, {"LOWER": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dry"}, {"LOWER": "system"}, {"LEMMA": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wet"}, {"LOWER": "system"}, {"LOWER": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wet"}, {"LOWER": "system"}, {"LEMMA": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "butterfly"}, {"LOWER": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "butterfly"}, {"LEMMA": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "os&y"}, {"LOWER": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "os&y"}, {"LEMMA": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "horizontal"}, {"LOWER": "sidewall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "horizontal"}, {"LEMMA": "sidewall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "vertical"}, {"LOWER": "sidewall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "vertical"}, {"LEMMA": "sidewall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "supervisory"}, {"LOWER": "tamper"}, {"LOWER": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "supervisory"}, {"LOWER": "tamper"}, {"LEMMA": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "valve"}, {"LOWER": "tamper"}, {"LOWER": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "valve"}, {"LOWER": "tamper"}, {"LEMMA": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "quick"}, {"LOWER": "response"}, {"LOWER": "pendant"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "quick"}, {"LOWER": "response"}, {"LEMMA": "pendant"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "standard"}, {"LOWER": "pendant"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "standard"}, {"LEMMA": "pendant"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ionization"}, {"LOWER": "detector"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ionization"}, {"LEMMA": "detector"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "photoelectric"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "photoelectric"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "photoelectric"}, {"LOWER": "detector"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "photoelectric"}, {"LEMMA": "detector"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ionization"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "ionization"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "speaker"}, {"LOWER": "strobe"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "speaker"}, {"LEMMA": "strobe"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "horn"}, {"LOWER": "strobe"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "horn"}, {"LEMMA": "strobe"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "paddle"}, {"LOWER": "type"}, {"LOWER": "flow"}, {"LOWER": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "paddle"}, {"LOWER": "type"}, {"LOWER": "flow"}, {"LEMMA": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "electronic"}, {"LOWER": "flow"}, {"LOWER": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "electronic"}, {"LOWER": "flow"}, {"LEMMA": "switch"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dn100"}, {"LOWER": "cpvc"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dn100"}, {"LEMMA": "cpvc"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dn50"}, {"LOWER": "black"}, {"LOWER": "steel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dn50"}, {"LOWER": "black"}, {"LEMMA": "steel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fixed"}, {"LOWER": "temperature"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fixed"}, {"LEMMA": "temperature"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rate"}, {"LOWER": "-"}, {"LOWER": "of"}, {"LOWER": "-"}, {"LOWER": "rise"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "rate"}, {"LOWER": "-"}, {"LOWER": "of"}, {"LOWER": "-"}, {"LEMMA": "rise"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "structural"}, {"LOWER": "slab"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "structural"}, {"LEMMA": "slab"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "structural"}, {"LOWER": "floor"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "structural"}, {"LEMMA": "floor"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "generic"}, {"LOWER": "floor"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "generic"}, {"LEMMA": "floor"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "finish"}, {"LOWER": "floor"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "finish"}, {"LEMMA": "floor"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "raised"}, {"LOWER": "access"}, {"LOWER": "floor"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "raised"}, {"LOWER": "access"}, {"LEMMA": "floor"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "thermal"}, {"LOWER": "mass"}, {"LOWER": "floor"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "thermal"}, {"LOWER": "mass"}, {"LEMMA": "floor"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "reinforced"}, {"LOWER": "concrete"}, {"LOWER": "slab"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "reinforced"}, {"LOWER": "concrete"}, {"LEMMA": "slab"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "composite"}, {"LOWER": "metal"}, {"LOWER": "deck"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "composite"}, {"LOWER": "metal"}, {"LEMMA": "deck"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "precast"}, {"LOWER": "hollow"}, {"LOWER": "core"}, {"LOWER": "slab"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "precast"}, {"LOWER": "hollow"}, {"LOWER": "core"}, {"LEMMA": "slab"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "slab"}, {"LOWER": "-"}, {"LOWER": "200"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "slab"}, {"LOWER": "-"}, {"LOWER": "200"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "generic"}, {"LOWER": "-"}, {"LOWER": "450"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "generic"}, {"LOWER": "-"}, {"LOWER": "450"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wood"}, {"LOWER": "joist"}, {"LOWER": "floor"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wood"}, {"LOWER": "joist"}, {"LEMMA": "floor"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "-"}, {"LOWER": "150"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "-"}, {"LOWER": "150"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "generic"}, {"LOWER": "-"}, {"LOWER": "300"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "generic"}, {"LOWER": "-"}, {"LOWER": "300"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "generic"}, {"LOWER": "-"}, {"LOWER": "150"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "generic"}, {"LOWER": "-"}, {"LOWER": "150"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "tile"}, {"LOWER": "finish"}, {"LOWER": "-"}, {"LOWER": "10"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "tile"}, {"LOWER": "finish"}, {"LOWER": "-"}, {"LOWER": "10"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wood"}, {"LOWER": "finish"}, {"LOWER": "-"}, {"LOWER": "20"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wood"}, {"LOWER": "finish"}, {"LOWER": "-"}, {"LOWER": "20"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "carpet"}, {"LOWER": "finish"}, {"LOWER": "-"}, {"LOWER": "15"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "carpet"}, {"LOWER": "finish"}, {"LOWER": "-"}, {"LOWER": "15"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "calcium"}, {"LOWER": "sulfate"}, {"LOWER": "panel"}, {"LOWER": "raised"}, {"LOWER": "floor"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "calcium"}, {"LOWER": "sulfate"}, {"LOWER": "panel"}, {"LOWER": "raised"}, {"LEMMA": "floor"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "steel"}, {"LOWER": "panel"}, {"LOWER": "raised"}, {"LOWER": "floor"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "steel"}, {"LOWER": "panel"}, {"LOWER": "raised"}, {"LEMMA": "floor"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "thermal"}, {"LOWER": "concrete"}, {"LOWER": "mass"}, {"LOWER": "floor"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "thermal"}, {"LOWER": "concrete"}, {"LOWER": "mass"}, {"LEMMA": "floor"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "radiant"}, {"LOWER": "slab"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "radiant"}, {"LEMMA": "slab"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "tables"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "table"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "seating"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "seating"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "coffee"}, {"LOWER": "table"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "coffee"}, {"LEMMA": "table"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dining"}, {"LOWER": "table"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dining"}, {"LEMMA": "table"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "office"}, {"LOWER": "chair"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "office"}, {"LEMMA": "chair"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "sofa"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "sofa"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "emergency"}, {"LOWER": "light"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "emergency"}, {"LEMMA": "light"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "pendant"}, {"LOWER": "light"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "pendant"}, {"LEMMA": "light"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "ceiling"}, {"LOWER": "light"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "ceiling"}, {"LEMMA": "light"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "recessed"}, {"LOWER": "can"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "recessed"}, {"LEMMA": "can"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ceiling"}, {"LOWER": "emergency"}, {"LOWER": "combo"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ceiling"}, {"LOWER": "emergency"}, {"LEMMA": "combo"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wall"}, {"LOWER": "-"}, {"LOWER": "mounted"}, {"LOWER": "emergency"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wall"}, {"LOWER": "-"}, {"LOWER": "mounted"}, {"LEMMA": "emergency"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "industrial"}, {"LOWER": "pendant"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "industrial"}, {"LEMMA": "pendant"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "modern"}, {"LOWER": "pendant"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "modern"}, {"LEMMA": "pendant"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fluorescent"}, {"LOWER": "troffer"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fluorescent"}, {"LEMMA": "troffer"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "led"}, {"LOWER": "panel"}, {"LOWER": "light"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "led"}, {"LOWER": "panel"}, {"LEMMA": "light"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "led"}, {"LOWER": "150"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "led"}, {"LOWER": "150"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "halogen"}, {"LOWER": "100"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "halogen"}, {"LOWER": "100"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "air"}, {"LOWER": "handling"}, {"LOWER": "unit"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "air"}, {"LOWER": "handling"}, {"LEMMA": "unit"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "fan"}, {"LOWER": "coil"}, {"LOWER": "unit"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "fan"}, {"LOWER": "coil"}, {"LEMMA": "unit"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "boiler"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "boiler"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "chiller"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "chiller"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ahu"}, {"LOWER": "-"}, {"LOWER": "large"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ahu"}, {"LOWER": "-"}, {"LEMMA": "large"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ahu"}, {"LOWER": "-"}, {"LOWER": "small"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ahu"}, {"LOWER": "-"}, {"LEMMA": "small"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ahu"}, {"LOWER": "-"}, {"LOWER": "rooftop"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ahu"}, {"LOWER": "-"}, {"LEMMA": "rooftop"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fcu"}, {"LOWER": "-"}, {"LOWER": "horizontal"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fcu"}, {"LOWER": "-"}, {"LEMMA": "horizontal"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fcu"}, {"LOWER": "-"}, {"LOWER": "ceiling"}, {"LOWER": "mounted"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fcu"}, {"LOWER": "-"}, {"LOWER": "ceiling"}, {"LEMMA": "mount"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fcu"}, {"LOWER": "-"}, {"LOWER": "vertical"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "fcu"}, {"LOWER": "-"}, {"LEMMA": "vertical"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gas"}, {"LOWER": "boiler"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gas"}, {"LEMMA": "boiler"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "electric"}, {"LOWER": "boiler"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "electric"}, {"LEMMA": "boiler"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "water"}, {"LOWER": "-"}, {"LOWER": "cooled"}, {"LOWER": "chiller"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "water"}, {"LOWER": "-"}, {"LOWER": "cooled"}, {"LEMMA": "chiller"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "air"}, {"LOWER": "-"}, {"LOWER": "cooled"}, {"LOWER": "chiller"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "air"}, {"LOWER": "-"}, {"LOWER": "cooled"}, {"LEMMA": "chiller"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "valve"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "valve"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "strainer"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "strainer"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gate"}, {"LOWER": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "gate"}, {"LEMMA": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "butterfly"}, {"LOWER": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "butterfly"}, {"LEMMA": "valve"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "y"}, {"LOWER": "-"}, {"LOWER": "strainer"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "y"}, {"LOWER": "-"}, {"LEMMA": "strainer"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "basket"}, {"LOWER": "strainer"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "basket"}, {"LEMMA": "strainer"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "elbow"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "elbow"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "tee"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "tee"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "90"}, {"LOWER": "\u00b0"}, {"LOWER": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "90"}, {"LOWER": "\u00b0"}, {"LEMMA": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "45"}, {"LOWER": "\u00b0"}, {"LOWER": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "45"}, {"LOWER": "\u00b0"}, {"LEMMA": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "45"}, {"LOWER": "degree"}, {"LOWER": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "45"}, {"LOWER": "degree"}, {"LEMMA": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "90"}, {"LOWER": "degree"}, {"LOWER": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "90"}, {"LOWER": "degree"}, {"LEMMA": "elbow"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "reducing"}, {"LOWER": "tee"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "reducing"}, {"LEMMA": "tee"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "equal"}, {"LOWER": "tee"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "equal"}, {"LEMMA": "tee"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "pipe"}, {"LOWER": "wrap"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "pipe"}, {"LEMMA": "wrap"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "25"}, {"LOWER": "mm"}, {"LOWER": "foam"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "25"}, {"LOWER": "mm"}, {"LEMMA": "foam"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "50"}, {"LOWER": "mm"}, {"LOWER": "fiberglass"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "50"}, {"LOWER": "mm"}, {"LEMMA": "fiberglass"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "sanitary"}, {"LOWER": "sewer"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "sanitary"}, {"LEMMA": "sewer"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "domestic"}, {"LOWER": "cold"}, {"LOWER": "water"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "domestic"}, {"LOWER": "cold"}, {"LEMMA": "water"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dn150"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "dn150"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dn100"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "dn100"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dn25"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "dn25"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "dn50"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "dn50"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "sinks"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "sink"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "toilets"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "toilet"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wall"}, {"LOWER": "hung"}, {"LOWER": "sink"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wall"}, {"LOWER": "hung"}, {"LEMMA": "sink"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "countertop"}, {"LOWER": "sink"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "countertop"}, {"LEMMA": "sink"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "floor"}, {"LOWER": "mounted"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "floor"}, {"LEMMA": "mount"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wall"}, {"LOWER": "mounted"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wall"}, {"LEMMA": "mount"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "pipe"}, {"LOWER": "railing"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "pipe"}, {"LEMMA": "railing"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "standard"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "standard"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ada"}, {"LOWER": "compliant"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "ada"}, {"LEMMA": "compliant"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "sloped"}, {"LOWER": "glazing"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "sloped"}, {"LEMMA": "glazing"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "basic"}, {"LOWER": "roof"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "basic"}, {"LEMMA": "roof"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "skylight"}, {"LOWER": "-"}, {"LOWER": "pyramid"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "skylight"}, {"LOWER": "-"}, {"LEMMA": "pyramid"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "insulated"}, {"LOWER": "metal"}, {"LOWER": "panel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "insulated"}, {"LOWER": "metal"}, {"LEMMA": "panel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wood"}, {"LOWER": "truss"}, {"LOWER": "roof"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "wood"}, {"LOWER": "truss"}, {"LEMMA": "roof"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "monolithic"}, {"LOWER": "stair"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "monolithic"}, {"LEMMA": "stair"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "assembled"}, {"LOWER": "stair"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "assembled"}, {"LEMMA": "stair"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "stair"}, {"LOWER": "-"}, {"LOWER": "150"}, {"LOWER": "mm"}, {"LOWER": "tread"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "stair"}, {"LOWER": "-"}, {"LOWER": "150"}, {"LOWER": "mm"}, {"LEMMA": "tread"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "metal"}, {"LOWER": "stair"}, {"LOWER": "with"}, {"LOWER": "riser"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "metal"}, {"LOWER": "stair"}, {"LOWER": "with"}, {"LEMMA": "riser"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "steel"}, {"LOWER": "beam"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "steel"}, {"LEMMA": "beam"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "concrete"}, {"LOWER": "beam"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "concrete"}, {"LEMMA": "beam"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "c10x20"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "c10x20"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "w12x26"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "w12x26"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "300x600"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "300x600"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "stacked"}, {"LOWER": "wall"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "stacked"}, {"LEMMA": "wall"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "retaining"}, {"LOWER": "wall"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "retaining"}, {"LEMMA": "wall"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "punch"}, {"LOWER": "out"}, {"LOWER": "wall"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "punch"}, {"LOWER": "out"}, {"LEMMA": "wall"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "basic"}, {"LOWER": "wall"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "basic"}, {"LEMMA": "wall"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "curtain"}, {"LOWER": "wall"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "curtain"}, {"LEMMA": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "precast"}, {"LOWER": "over"}, {"LOWER": "insulated"}, {"LOWER": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "precast"}, {"LOWER": "over"}, {"LOWER": "insulated"}, {"LEMMA": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "brick"}, {"LOWER": "over"}, {"LOWER": "cmu"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "brick"}, {"LOWER": "over"}, {"LEMMA": "cmu"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "metal"}, {"LOWER": "panel"}, {"LOWER": "over"}, {"LOWER": "stud"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "metal"}, {"LOWER": "panel"}, {"LOWER": "over"}, {"LEMMA": "stud"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "stone"}, {"LOWER": "over"}, {"LOWER": "concrete"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "stone"}, {"LOWER": "over"}, {"LEMMA": "concrete"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "retaining"}, {"LOWER": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "retaining"}, {"LEMMA": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "punch"}, {"LOWER": "out"}, {"LOWER": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "punch"}, {"LOWER": "out"}, {"LEMMA": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exterior"}, {"LOWER": "-"}, {"LOWER": "stud"}, {"LOWER": "&"}, {"LOWER": "plaster"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exterior"}, {"LOWER": "-"}, {"LOWER": "stud"}, {"LOWER": "&"}, {"LEMMA": "plaster"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "interior"}, {"LOWER": "-"}, {"LOWER": "92"}, {"LOWER": "mm"}, {"LOWER": "stud"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "interior"}, {"LOWER": "-"}, {"LOWER": "92"}, {"LOWER": "mm"}, {"LEMMA": "stud"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exterior"}, {"LOWER": "-"}, {"LOWER": "insulated"}, {"LOWER": "metal"}, {"LOWER": "panel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exterior"}, {"LOWER": "-"}, {"LOWER": "insulated"}, {"LOWER": "metal"}, {"LEMMA": "panel"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exterior"}, {"LOWER": "-"}, {"LOWER": "stucco"}, {"LOWER": "on"}, {"LOWER": "studs"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exterior"}, {"LOWER": "-"}, {"LOWER": "stucco"}, {"LOWER": "on"}, {"LEMMA": "stud"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "interior"}, {"LOWER": "partition"}, {"LOWER": "-"}, {"LOWER": "92"}, {"LOWER": "mm"}, {"LOWER": "stud"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "interior"}, {"LOWER": "partition"}, {"LOWER": "-"}, {"LOWER": "92"}, {"LOWER": "mm"}, {"LEMMA": "stud"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "generic"}, {"LOWER": "-"}, {"LOWER": "200"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "generic"}, {"LOWER": "-"}, {"LOWER": "200"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "garden"}, {"LOWER": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "concrete"}, {"LOWER": "garden"}, {"LEMMA": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exterior"}, {"LOWER": "-"}, {"LOWER": "brick"}, {"LOWER": "on"}, {"LOWER": "cmu"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exterior"}, {"LOWER": "-"}, {"LOWER": "brick"}, {"LOWER": "on"}, {"LEMMA": "cmu"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "generic"}, {"LOWER": "-"}, {"LOWER": "100"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "generic"}, {"LOWER": "-"}, {"LOWER": "100"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "mullion"}, {"LOWER": "grid"}, {"LOWER": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "mullion"}, {"LOWER": "grid"}, {"LEMMA": "system"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exterior"}, {"LOWER": "glazing"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "exterior"}, {"LEMMA": "glazing"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "storefront"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LEMMA": "storefront"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "curtain"}, {"LOWER": "wall"}, {"LOWER": "-"}, {"LOWER": "storefront"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "curtain"}, {"LOWER": "wall"}, {"LOWER": "-"}, {"LEMMA": "storefront"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "unitized"}, {"LOWER": "curtain"}, {"LOWER": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "unitized"}, {"LOWER": "curtain"}, {"LEMMA": "wall"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "curtain"}, {"LOWER": "wall"}, {"LOWER": "-"}, {"LOWER": "exterior"}, {"LOWER": "glazing"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "curtain"}, {"LOWER": "wall"}, {"LOWER": "-"}, {"LOWER": "exterior"}, {"LEMMA": "glazing"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "curtain"}, {"LOWER": "wall"}, {"LOWER": "-"}, {"LOWER": "double"}, {"LOWER": "glazed"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "curtain"}, {"LOWER": "wall"}, {"LOWER": "-"}, {"LOWER": "double"}, {"LEMMA": "glaze"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "awning"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "awning"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LOWER": "fixed"}]}
+{"label": "CON_BIM_FAML", "pattern": [{"LEMMA": "fix"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "600"}, {"LOWER": "x"}, {"LOWER": "600"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "600"}, {"LOWER": "x"}, {"LOWER": "600"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "1200"}, {"LOWER": "x"}, {"LOWER": "600"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "1200"}, {"LOWER": "x"}, {"LOWER": "600"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "600"}, {"LOWER": "x"}, {"LOWER": "900"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "600"}, {"LOWER": "x"}, {"LOWER": "900"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "900"}, {"LOWER": "x"}, {"LOWER": "1200"}, {"LOWER": "mm"}]}
+{"label": "CON_BIM_TYPE", "pattern": [{"LOWER": "900"}, {"LOWER": "x"}, {"LOWER": "1200"}, {"LEMMA": "mm"}]}
+{"label": "CON_BIM_LEVL", "pattern": [{"LOWER": "level"}]}
+{"label": "CON_BIM_LEVL", "pattern": [{"LEMMA": "level"}]}
